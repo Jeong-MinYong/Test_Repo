@@ -7,3 +7,5 @@ git add test1.txt
 git commit -m 'test1'
 [master (root-commit) 6198574] test1
 //
+
+수정
