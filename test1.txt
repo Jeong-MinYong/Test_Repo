@@ -1,0 +1,9 @@
+
+테스트1 입니다.
+# test1.txt 파일 관리
+git add test1.txt
+
+#버전 관리 파일 덩어리 등록
+git commit -m 'test1'
+[master (root-commit) 6198574] test1
+//
